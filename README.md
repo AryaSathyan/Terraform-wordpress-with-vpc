@@ -1,4 +1,4 @@
-# Terraform-wp
+# terraform-wordpress-provision
 
 In this document, we will discuss how to create infra and deploy WordPress on it using Terraform. We are going to create one VPC with three subnets: two private and one public, as well as 1 NAT gateway, 1 Internet gateway, and 2 route tables.
 
